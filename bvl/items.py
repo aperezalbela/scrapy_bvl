@@ -10,3 +10,7 @@ class Company(Item):
 	link		=	Field()
 	code		=	Field()
 	mnemonic	=	Field()
+
+
+class Mnemonic(Item):
+	name		=	Field()
