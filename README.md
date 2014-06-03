@@ -11,3 +11,9 @@ Example:
 	|
 	|__ CASTROI1
 	|__ CASTROC1
+
+
+	CEMENTOS PACASMAYO S.A.A.
+	|
+	|__ CPACASI1
+	|__ CPACASC1
