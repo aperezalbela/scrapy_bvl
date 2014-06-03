@@ -10,6 +10,7 @@ BOT_NAME = 'bvl'
 
 SPIDER_MODULES = ['bvl.spiders']
 NEWSPIDER_MODULE = 'bvl.spiders'
+LOG_LEVEL = 'INFO'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'bvl (+http://www.yourdomain.com)'
