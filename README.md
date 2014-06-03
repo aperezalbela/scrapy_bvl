@@ -7,6 +7,8 @@ When executed it creates a folder name for each Company and Mnemonic folders ins
 
 Example:
 
+	...
+
 	CASTROVIRREYNA COMPAÑIA MINERA S.A.
 	|
 	|__ CASTROI1
@@ -17,3 +19,5 @@ Example:
 	|
 	|__ CPACASI1
 	|__ CPACASC1
+	
+	...
